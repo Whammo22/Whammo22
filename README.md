@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Whammo22
+- 👋 Hi, I’m @Whammo22, Mark
 - 👀 I’m interested in ... Learning Python, Automated Testing, AI and Guitar.
-- 🌱 I’m currently learning ... GitHub 
-- 💞️ I’m looking to collaborate on ... new projects
+- 🌱 I’m currently learning ... GitHub, Automation.
+- 💞️ I’m looking to collaborate on ... AI / Agentic projects, particularly where there is online communities and social good that evolves.
 - 📫 How to reach me ... inbox on here
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I have 3 kids and three bonus kids.  Novice lumberjack .
