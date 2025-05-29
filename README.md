@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Whammo22, Mark
 - 👀 I’m interested in ... Learning Python, Automated Testing, AI and Guitar.
 - 🌱 I’m currently learning ... GitHub, Automation.
+- 🧑‍💻 I'm currently working with MyLife Inc to help bring their AI solution to life. Check us out at humanremembranceproject.org 
 - 💞️ I’m looking to collaborate on ... AI / Agentic projects, particularly where there is online communities and social good that evolves.
 - 📫 How to reach me ... inbox on here
 - 😄 Pronouns: ...he/him
